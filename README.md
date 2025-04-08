@@ -5,6 +5,7 @@ For this assignment you are welcomed to use other regex resources such a regex "
 
 Before start working on the problems, here is a small example to help you understand how to write your own answers. In short, the solution should be written within the function body given, and the final result should be returned. Then the autograder will try to call the function and validate your returned result accordingly.
 
+'''
 def example_word_count():
     # This example question requires counting words in the example_string below.
     example_string = "Amy is 5 years old"
@@ -16,3 +17,4 @@ def example_word_count():
     return len(result)
 ​
     #raise NotImplementedError()
+'''
